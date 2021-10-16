@@ -1,0 +1,9 @@
+{
+  "space": false,
+  "overrides": [
+    {
+      "files": "./index.spaces.js",
+      "space": true
+    }
+  ]
+}
